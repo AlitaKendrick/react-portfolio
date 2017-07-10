@@ -1,0 +1,5 @@
+.jumbotron {
+	background-image: url('/dist/images/dark_geometric.png');
+	color: white;
+	height: 400px;
+}

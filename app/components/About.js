@@ -8,9 +8,9 @@ class About extends React.Component {
         <div className='row'>
           <div className='col-md-6'>
             <h3>Contact Me</h3>
-            <button type="button" className="btn btn-default btn-primary col-md-4"> <a href="mailto:alitakendrick121@gmail.com?Subject=Portfolio%20" target="_top">Email </a></button> <br /> <br />
-            <button type="button" className="btn btn-default btn-primary col-md-4">GitHub</button> <br /> <br />
-            <button type="button" className="btn btn-default btn-primary col-md-4">LinkedIn</button> <br /> 
+            <a href="mailto:alitakendrick121@gmail.com?Subject=Portfolio%20" target="_top" role="button" className="btn btn-default btn-primary col-md-4">Email </a> <br /> <br />
+            <a href="https://github.com/AlitaKendrick" role="button" className="btn btn-default btn-primary col-md-4"> GitHub </a> <br /> <br />
+            <a href="https://www.linkedin.com/in/alitakendrick/" role="button" className="btn btn-default btn-primary col-md-4"> LinkedIn </a> <br /> <br />
           </div>
           <div className='col-md-6'>
             <h3>About Me</h3>

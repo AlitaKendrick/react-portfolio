@@ -9,7 +9,14 @@ class Portfolio extends React.Component {
 
         <div className='row'>
           <div className='col-md-4'>
-            <p> group 1 </p>
+            <div class="thumbnail">
+              <img src="https://pixy.org/images/placeholder.png" height="134" width="180"/>
+              <div className="caption">
+                <h3>Project Name</h3>
+                <p>Project Description</p>
+                <p><a href="#" className="btn btn-primary" role="button">View Project</a></p>
+              </div>
+            </div>
           </div>
           <div className='col-md-4'>
             <p> group 2 </p>

@@ -8,11 +8,14 @@ class About extends React.Component {
         <div className='row'>
           <div className='col-md-6'>
             <h3>Contact Me</h3>
-            <p> text text text </p>
+            <button type="button" className="btn btn-default btn-primary col-md-4">Email</button> <br /> <br />
+            <button type="button" className="btn btn-default btn-primary col-md-4">GitHub</button> <br /> <br />
+            <button type="button" className="btn btn-default btn-primary col-md-4">LinkedIn</button> <br /> 
           </div>
           <div className='col-md-6'>
             <h3>About Me</h3>
-            <p> text text text </p>            
+            <p> text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text text
+            </p>            
           </div>
         </div>
       </div>
